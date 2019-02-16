@@ -1,0 +1,17 @@
+{
+    "name": "tanjim/pluginad",
+    "description": "A fantastic plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Tanzim Ibthesam",
+            "email": "tanzim@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+      "psr-4":{"Inc\\": "./inc"}
+    }
+}
